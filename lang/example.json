@@ -1,40 +1,40 @@
 {
-    "flag": "",
-    "login": "",
+    "flag": "https://osu.ppy.sh/images/flags/CN.png",
+    "login": "登录",
     "mca_ayim": {
         "header": {
-            "mca": "",
-            "ayim": "",
-            "login": "",
-            "welcomeBack": "",
-            "logout": ""
+            "mca": "谱师 <br> 之选 <br> 奖",
+            "ayim": "做谱 <br> 又 <br> 一年",
+            "login": "登录",
+            "welcomeBack": "欢迎回来",
+            "logout": "注销"
         },
         "login": {
-            "login": "",
+            "login": "登录",
             "message": {
-                "1": "",
-                "2": ""
+                "1": "你好像并没有登录！<br>只需要通过osu!登录，你就可以立刻进行谱面投票/提名！",
+                "2": "（通过osu!）登录后你还可以选择通过Discord帐户登录。<br>仅在满足下述情况时你才需要使用Discord登录：1）你是工作人员，或2）你想要为谱面投票/提名但你没有ranked的谱面，只有ranked的gd。<br>为谱面投票/提名<b>不要求</b>你通过Discord登录。</span>"
             },
-            "authOsu": "",
-            "authOsuComp": "",
-            "authDiscord": "",
-            "authDiscordComp": ""
+            "authOsu": "点击这里通过osu!登录",
+            "authOsuComp": "osu!认证通过。你好，",
+            "authDiscord": "点击这里通过Discord登录",
+            "authDiscordComp": "Discord认证通过。你好，"
         },
         "main": {
-            "voting": "",
-            "nominating": "",
-			"mapsetsLabel": "",
-			"mappersLabel": "",
-			"commentsLabel": "",
+            "voting": "投票",
+            "nominating": "提名",
+			"mapsetsLabel": "谱面",
+			"mappersLabel": "谱师",
+			"commentsLabel": "评论",
 			"recordsLabel": "",
-			"statisticsLabel": "",
+			"statisticsLabel": "统计",
             "stage": {
-                "voting": "",
-                "nominating": ""
+                "voting": "投票阶段",
+                "nominating": "提名阶段"
             },
-            "rankedSets": "",
-            "voteNow": "",
-            "daysLeft": "",
+            "rankedSets": "Ranked谱面",
+            "voteNow": "现在投票！",
+            "daysLeft": "天剩余",
             "message": {
                 "1": "",
                 "2": "",
